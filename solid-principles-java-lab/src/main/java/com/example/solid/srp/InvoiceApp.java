@@ -1,3 +1,5 @@
+package com.example.solid.srp;
+
 public class InvoiceApp {
     public static void main(String[] args) {
         Invoice invoice = new Invoice("Cliente 1", 100.0);
