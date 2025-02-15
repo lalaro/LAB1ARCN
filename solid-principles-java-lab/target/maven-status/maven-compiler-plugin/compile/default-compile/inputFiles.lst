@@ -1,1 +1,9 @@
 /workspaces/LAB1ARCN/solid-principles-java-lab/src/main/java/com/example/solid/App.java
+/workspaces/LAB1ARCN/solid-principles-java-lab/src/main/java/com/example/solid/lsp/Car.java
+/workspaces/LAB1ARCN/solid-principles-java-lab/src/main/java/com/example/solid/lsp/ElectricCar.java
+/workspaces/LAB1ARCN/solid-principles-java-lab/src/main/java/com/example/solid/lsp/interfaces/Drivable.java
+/workspaces/LAB1ARCN/solid-principles-java-lab/src/main/java/com/example/solid/lsp/interfaces/Refuelable.java
+/workspaces/LAB1ARCN/solid-principles-java-lab/src/main/java/com/example/solid/srp/Invoice.java
+/workspaces/LAB1ARCN/solid-principles-java-lab/src/main/java/com/example/solid/srp/InvoiceApp.java
+/workspaces/LAB1ARCN/solid-principles-java-lab/src/main/java/com/example/solid/srp/InvoicePrinter.java
+/workspaces/LAB1ARCN/solid-principles-java-lab/src/main/java/com/example/solid/srp/InvoiceRepository.java
